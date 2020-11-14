@@ -1,4 +1,6 @@
 {
-  "title": "Give me your tots 🦙",
-  "body": "Ok wow 🤩 "
+  "markdownBody": "{\n  \"title\": \"Give me your tots 🦙\",\n  \"body\": \"Ok wow 🤩 \"\n}",
+  "frontmatter": {},
+  "title": "Give me your tots!",
+  "body": "OK?"
 }
